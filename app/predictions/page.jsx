@@ -29,7 +29,7 @@ export default function PredictionsPage() {
     };
 
     try {
-      const response = await fetch('https://web-production-cc089.up.railway.app/predict/predict', {
+      const response = await fetch('https://web-production-e47e4.up.railway.app/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
