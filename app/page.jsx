@@ -62,7 +62,7 @@ export default function Home() {
               </div>
               <div className="pt-4 text-sm text-muted-foreground">
                 <p>Presented by: Agrolytics</p>
-                <p>Team Members: MD ARSALAN, SHIKHAR SINGH, SIMPI KUMARI, UTTAM RAJ</p>
+                <p>Team Members: MD ARSALAN</p>
               </div>
             </div>
             <div className="flex-1 relative h-[400px] w-full">
